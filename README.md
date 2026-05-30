@@ -27,7 +27,7 @@ This is a browser-based Tic-Tac-Toe game developed using HTML, CSS, and JavaScri
 
 ## AI Algorithm
 
-The project uses the Minimax algorithm, which evaluates possible future moves and selects the optimal move for the AI player.
+AI uses the Minimax algorithm, which is a standard approach for optimal Tic-Tac-Toe play and helps explain why the computer is difficult to beat. Perfect-play Tic-Tac-Toe AIs are designed to avoid losing and typically force a draw or capitalize on mistakes.
 
 ## Author
 
